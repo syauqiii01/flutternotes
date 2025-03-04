@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760632240896",
+    "project_id": "flutternotes-1870a",
+    "storage_bucket": "flutternotes-1870a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760632240896:android:a1fd2df91e90d990bb21e5",
+        "android_client_info": {
+          "package_name": "com.example.flutternotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBss5bZ4t0nTLNw4QlO_xwUV8rC8yMZAkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
